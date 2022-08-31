@@ -75,7 +75,7 @@ setInterval(() => {
       console.log(err);
     });
 
-  },800); 
+  },1000); 
 
 
 
